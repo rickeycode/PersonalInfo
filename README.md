@@ -19,6 +19,7 @@ HTML, CSS, SCSS, JavaScript, Swift, ActionScript
 
 #### 業務経験なし
 Kotlin, Less
+
 ----
 
 ### 編集
@@ -26,19 +27,23 @@ Design (Illustrator, Sketch, Figma), Animation (Adobe Animate, Lottie)
 
 #### 業務経験なし
 Video (Adobe Premiere Pro), Sound (Logic Pro)
+
 ----
 
 ### フレームワーク
 Node.js, Angular.js, j-Query
+
 ----
 
 ### ライブラリ (OSS)
 多数利用していますが、特筆すべきものを列挙。    
 RxSwift, realm, TwitterKit, FacebockSDK, SwiftLint, Alamofire, GPUImage, SDWebImage, Quick, Nimble
+
 ----
 
 ### CI
 jenkins, TravisCI, Bitrise
+
 ----
 
 ### ツール
