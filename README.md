@@ -9,67 +9,40 @@
 |Blog|[RC-Code](https://rc-code.info/)|
 |Twitter|[@rc_code](https://twitter.com/rc_code)|
 |Qiita|[@rc_code](https://qiita.com/rc_code)|
+
 　   
 　   
 ## スキル
 
 ### 言語
-- HTML5
-- CSS
-- SCSS
-- JavaScript
-- Swift
-- ActionScript
+HTML, CSS, SCSS, JavaScript, Swift, ActionScript
 
 #### 業務経験なし
-- Kotlin
-- Less
----
+Kotlin, Less
+----
 
 ### 編集
-- Design (Illustrator, Sketch, Figma)
-- Animation (Adobe Animate, Lottie)
+Design (Illustrator, Sketch, Figma), Animation (Adobe Animate, Lottie)
 
 #### 業務経験なし
-- Video (Adobe Premiere Pro)
-- Sound (Logic Pro)
----
+Video (Adobe Premiere Pro), Sound (Logic Pro)
+----
 
 ### フレームワーク
-- Node.js
-- Angular.js
-- j-Query
----
+Node.js, Angular.js, j-Query
+----
 
 ### ライブラリ (OSS)
-多数利用していますが、特筆すべきものを列挙。
-- RxSwift
-- realm
-- TwitterKit
-- FacebockSDK
-- SwiftLint
-- Alamofire
-- GPUImage
-- SDWebImage
-- Quick
-- Nimble
----
+多数利用していますが、特筆すべきものを列挙。    
+RxSwift, realm, TwitterKit, FacebockSDK, SwiftLint, Alamofire, GPUImage, SDWebImage, Quick, Nimble
+----
 
 ### CI
-- jenkins
-- TravisCI
-- Bitrise
----
+jenkins, TravisCI, Bitrise
+----
 
 ### ツール
-- GoogleAnalytics
-- Fabric
-- fastlane
-- Firebase
-- Docbase
-- esa
-- Slack
-- Skype
+GoogleAnalytics, Fabric, fastlane, Firebase, Docbase, esa, Slack, Skype
 　   
 　   
 ## アピールポイント
@@ -90,6 +63,7 @@
 　   
 　   
 ## 職務経歴
+　   
 ### 2019/3-  : 株式会社サイバーエージェント - アメーバブログiOSチーム
 iOSエンジニアとして所属し、主に新規開発を中心に従事。    
 
@@ -97,29 +71,29 @@ iOSエンジニアとして所属し、主に新規開発を中心に従事。
 開発ツール： Bitrise, Fabric, Firebase, GoogleAnalytics, Sketch, Figma    
 
 #### 新機能開発
-- アプリ全体の刷新プロジェクト
+- アプリ全体の刷新プロジェクト    
 デザインスプリントからリリースまで一貫して担当。    
 デザインスプリントの期間はメイン画面（フィード型リスト画面）のモックを製作し、フィードバックを早急に反映するPDCAを回した。    
 実装期間には「お気に入り」「レコメンド」「履歴」のリストをユーザの状態によってロジックを変えて表示するという、複雑な画面を担当した。    
 また刷新を期に、チームを跨いでドキュメント環境・デザインシステムの改善なども同時に進めた。    
 アーキテクチャにはMVVMを採用し、RxSwiftでの開発を行った。
 
-- フォローしたブログの未読数表示機能
+- フォローしたブログの未読数表示機能    
 お気に入りに登録しているブログに関してチェックしたか否かのデータをAPIから取得し、未読数を表示する機能を開発。    
 アプリ起動中、該当するブログを閲覧した際にデータ更新やUI更新を行ったり、お気に入りから除外されたブログを省くなどというケースを踏まえ、データ保持＆更新の設計＆実装を行った。    
 また、未読のブログをレコメンドするモジュールのデザインや挙動に言及し、工数内で実現可能なパターンを提案し、実装した。    
 
-- ブログのジャンル毎タブ表示・タブ編集機能
+- ブログのジャンル毎タブ表示・タブ編集機能    
 ユーザの興味をカテゴライズする大規模機能（興味のあるカテゴリをタブ表示する機能）の開発を行い、設計・実装を行った。    
 ジャンルにフューチャーしたブログを配信するAPIを繋げ、各ジャンルのブログをまとめたリストをタブ毎に表示する機能を実装した。    
 興味のあるジャンルをタブに追加する機能、タブの並び替え及び削除機能も合わせて実装し、APIのレスポンス内容の精査から実装まで一貫して担当した。    
 アーキテクチャは簡易的なファクトリパターンを採用した。
 
 #### 機能改善
-- 各種広告の導入
+- 各種広告の導入    
 広告事業部との連携をとり、インバナーサーベイ型広告やアーティクル型広告のUI設計から実装まで担当。    
 その他、カスタマーサービスからの調査・修正依頼対応、カバレッジの向上、行動ログの設計・導入も経験した。
----
+----
 　   
 ### 2017/5-  : 株式会社サイバーエージェント - 株式会社アメステージ出向
 iOSチームのリーダーとして所属し、動画配信アプリの新規開発を行った。    
@@ -153,7 +127,7 @@ iOSチームのリーダーとして所属し、動画配信アプリの新規�
   - 申請周り業務
   - GoogleAnalyticsの管理設定
   - TravisCIの管理設定
----
+----
 　   
 ### 2016/9-  : 株式会社サイバーエージェント - 株式会社アメーバスタジオ出向
 iOSチームのリーダーとして所属し、動画配信アプリの新規開発を行った。    
@@ -172,13 +146,14 @@ iOSチームのリーダーとして所属し、動画配信アプリの新規�
 - 課金システムの実装
 - 配信画面実装
 - 視聴画面実装（WebSocketによるリアルタイムコメント機能含む）
-
+----
+　   
 ### 2013/5-  : 株式会社サイバーエージェント - アメーバピグスマホチーム
 Webフロントエンドチームのリーダーとして所属し、主に新機能開発を行った。    
 また、PCアプリ (Flashによる) からのパーツ移行のためのツールや、アバターのパーツ書き出しのためのツールなどを Node.js で開発し、開発効率の改善にも務めた。    
   　
-  　開発言語：HTML, CSS, SCSS, JavaScript (J-Query), Node.js (変換ツール、書き出しツールの作成)
-  　開発ツール： Grunt, Jenkins, Vim, Flash
+開発言語：HTML, CSS, SCSS, JavaScript (J-Query), Node.js (変換ツール、書き出しツールの作成)
+開発ツール： Grunt, Jenkins, Vim, Flash
 
 #### 新規機能開発
 - 毎日の着せ替え状態を保存する機能を開発
@@ -188,7 +163,7 @@ Webフロントエンドチームのリーダーとして所属し、主に新�
 #### 機能改善
 - アバターのパーツ刷新
 - 着せ替え画面の刷新
----
+----
 　   
 ### 2011/5-  : 株式会社プーペガール
 Flashを利用し、アニメーター・エンジニアとして毎月のイベント機能を開発・運用した。    
@@ -202,11 +177,11 @@ Flashのタイムライン上でアイテム一つ一つのアニメーション
 #### 運用
 - 月に2本のイベントページを作成
 - 月に20本ほどのアニメーションアイテムを作成
----
+----
 　   
 ### 2008/4-  : 株式会社STC
-　コーダー・デザイナーとして、HP作成の受託を行なっていました。
-　デザインを一から提案し、PHPの編集、コーディングまでを一貫して行いました。
+コーダー・デザイナーとして、HP作成の受託を行なっていました。
+デザインを一から提案し、PHPの編集、コーディングまでを一貫して行いました。
 
 ##### 担当業務
 - クライアントの要望に応じたHPデザイン
