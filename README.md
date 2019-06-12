@@ -44,6 +44,7 @@ jenkins, TravisCI, Bitrise
 GoogleAnalytics, Fabric, fastlane, Firebase, Docbase, esa, Slack, Skype
 　   
 　   
+　   
 ## アピールポイント
 - アニメーション作成経験があるので、インタラクティブなコンポーネント作成が得意
 - 単純なアニメーション・UIではなくUXを考慮した成果物を作成できる
@@ -54,11 +55,13 @@ GoogleAnalytics, Fabric, fastlane, Firebase, Docbase, esa, Slack, Skype
 - UX改善のフローに尽力した経験があり、大まかな流れを把握している
 　   
 　   
+　   
 ## やったことはないが興味があるもの
 - Android開発を趣味程度でしか開発できていないので、業務経験をしてみたい
 - IoTの分野でインターフェースの知識を活かしてみたい
 - 大人・子供に限らず教育の分野でプログラミング知識・ユーザインサイトの知識などを活かしたい
 - UXデザインの知識・技術を習得し、デザイン思考でプロダクトを作成したい
+　   
 　   
 　   
 ## 職務経歴
