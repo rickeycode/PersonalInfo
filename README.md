@@ -67,15 +67,18 @@ GoogleAnalytics, Fabric, fastlane, Firebase, Docbase, esa, Slack, Skype
 ## 職務経歴
 　   
 ### 2019/10~  : 株式会社O
-iOSエンジニアとして所属し、主に新規機能開発を中心に従事。  
+iOSエンジニア、Webフロントエンドエンジニアとして所属し、主に新規機能開発を中心に従事。 
+カスタマーサクセスチームと連携し、UXの改善・新規機能の仕様すり合わせを担当。
+iOSチーム・ Webフロントエンドチームのメンバーコーチを担当。
     
-開発言語： Swift, Ruby (fastlaneで使用)
+開発言語： Swift, Ruby (fastlaneで使用), HTML, Sass, Js
+開発フレームワーク: Vue.js, Webpack
 開発ツール： Bitrise, Fabric, Firebase, GoogleAnalytics, Sketch, Figma    
 
 ----
 　   
 ### 2019/9~2019/11  : フリーランス - ランニングアプリのiOS開発委託
-iOSエンジニア・チームディレグターとして所属し、主に新規開発を中心に従事。  
+iOSエンジニアとして所属し、主に新規開発を中心に従事。  
 
 開発言語： Swift, Ruby (fastlaneで使用)    
 開発ツール： Bitrise, Fabric, Firebase, GoogleAnalytics, Sketch, Figma  
