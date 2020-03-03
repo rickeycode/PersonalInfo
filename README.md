@@ -25,13 +25,13 @@ Design (Illustrator, Sketch, Figma), Animation (Adobe Animate, Lottie)
 ----
 
 #### フレームワーク
-Node.js, Angular.js, j-Query
+Node.js, Angular.js, j-Query, Vue.js, Bootstrap, Webpack
 
 ----
 
 #### ライブラリ (OSS)
 多数利用していますが、特筆すべきものを列挙。    
-RxSwift, realm, TwitterKit, FacebockSDK, SwiftLint, Alamofire, GPUImage, SDWebImage, Quick, Nimble
+RxSwift, realm, TwitterKit, FacebockSDK, SwiftLint, Alamofire, GPUImage, SDWebImage, Quick, Nimble, lodash-js
 
 ----
 
