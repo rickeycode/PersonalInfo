@@ -15,7 +15,7 @@
 ## スキル
 
 #### 言語
-HTML, CSS, SCSS, JavaScript, Swift, ActionScript
+HTML, CSS, SCSS, JavaScript, Swift, ActionScript, Dart
 
 ----
 
